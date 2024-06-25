@@ -94,7 +94,7 @@ function FilterSchools() {
           </Row>
           <Row>
             {filteredSchools.map(school => (
-              <Col key={school.Nombre} md={4} className="mb-4">
+              <Col key={school.ID_Escuela} md={4} className="mb-4">
                 <Card>
                   <Card.Body>
                     <Card.Title>{school.Nombre}</Card.Title>
