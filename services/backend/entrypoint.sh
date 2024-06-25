@@ -10,8 +10,8 @@ echo "【┘】 "
 
 # Esperar a que PostgreSQL esté disponible
 while ! nc -z db 5432; do
-  echo "PostgreSQL no disponible, reintentando en 1 segundos..."
-  sleep 1
+  echo "PostgreSQL no disponible, reintentando en 5 segundos..."
+  sleep 5
 done
 echo "---------------"
 

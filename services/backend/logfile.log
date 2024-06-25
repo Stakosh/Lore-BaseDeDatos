@@ -1,0 +1,624 @@
+2024-06-25 02:47:42,337 Iniciando la lectura del archivo CSV...
+2024-06-25 02:47:44,051 Total de regiones a insertar: 16
+2024-06-25 02:47:44,051 Iniciando la inserción de regiones...
+2024-06-25 02:47:44,067 Regiones insertadas correctamente.
+2024-06-25 02:47:44,067 Total de comunas a insertar: 16
+2024-06-25 02:47:44,067 Iniciando la inserción de comunas...
+2024-06-25 02:47:44,071 Comunas insertadas correctamente.
+2024-06-25 02:47:44,072 Total de escuelas a insertar: 100500
+2024-06-25 02:47:44,072 Iniciando la inserción de escuelas...
+2024-06-25 02:47:53,177 Escuelas insertadas correctamente.
+2024-06-25 02:47:53,305 Total de conflictos a insertar: 100500
+2024-06-25 02:47:53,306 Iniciando la inserción de conflictos...
+2024-06-25 02:47:57,882 Conflictos insertados correctamente.
+2024-06-25 02:47:57,968 Total de catástrofes a insertar: 100500
+2024-06-25 02:47:57,968 Iniciando la inserción de catástrofes...
+2024-06-25 02:48:02,692 Catástrofes insertadas correctamente.
+2024-06-25 02:48:02,780 Todos los datos han sido insertados correctamente.
+2024-06-25 02:48:02,952  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.0.3:5000 (Press CTRL+C to quit)
+2024-06-25 02:48:02,953  * Restarting with stat
+2024-06-25 02:48:05,382 Iniciando la lectura del archivo CSV...
+2024-06-25 02:48:06,961 Total de regiones a insertar: 16
+2024-06-25 02:48:06,961 Iniciando la inserción de regiones...
+2024-06-25 02:48:06,974 No hay nuevas regiones para insertar.
+2024-06-25 02:48:06,974 Total de comunas a insertar: 16
+2024-06-25 02:48:06,975 Iniciando la inserción de comunas...
+2024-06-25 02:48:06,976 No hay nuevas comunas para insertar.
+2024-06-25 02:48:06,976 Total de escuelas a insertar: 100500
+2024-06-25 02:48:06,976 Iniciando la inserción de escuelas...
+2024-06-25 02:48:07,378 No hay nuevas escuelas para insertar.
+2024-06-25 02:48:07,383 Total de conflictos a insertar: 100500
+2024-06-25 02:48:07,383 Iniciando la inserción de conflictos...
+2024-06-25 02:48:07,749 No hay nuevos conflictos para insertar.
+2024-06-25 02:48:07,754 Total de catástrofes a insertar: 100500
+2024-06-25 02:48:07,754 Iniciando la inserción de catástrofes...
+2024-06-25 02:48:08,157 No hay nuevas catástrofes para insertar.
+2024-06-25 02:48:08,161 Todos los datos han sido insertados correctamente.
+2024-06-25 02:48:08,287  * Debugger is active!
+2024-06-25 02:48:08,287  * Debugger PIN: 149-427-212
+2024-06-25 02:58:22,421 Iniciando la lectura del archivo CSV...
+2024-06-25 02:58:24,193 Total de regiones a insertar: 16
+2024-06-25 02:58:24,193 Iniciando la inserción de regiones...
+2024-06-25 02:58:24,209 Regiones insertadas correctamente.
+2024-06-25 02:58:24,210 Total de comunas a insertar: 16
+2024-06-25 02:58:24,210 Iniciando la inserción de comunas...
+2024-06-25 02:58:24,215 Comunas insertadas correctamente.
+2024-06-25 02:58:24,215 Total de escuelas a insertar: 100500
+2024-06-25 02:58:24,215 Iniciando la inserción de escuelas...
+2024-06-25 02:58:33,290 Escuelas insertadas correctamente.
+2024-06-25 02:58:33,436 Total de conflictos a insertar: 100500
+2024-06-25 02:58:33,436 Iniciando la inserción de conflictos...
+2024-06-25 02:58:38,508 Conflictos insertados correctamente.
+2024-06-25 02:58:38,594 Total de catástrofes a insertar: 100500
+2024-06-25 02:58:38,594 Iniciando la inserción de catástrofes...
+2024-06-25 02:58:43,495 Catástrofes insertadas correctamente.
+2024-06-25 02:58:43,581 Todos los datos han sido insertados correctamente.
+2024-06-25 02:58:43,759  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.0.3:5000 (Press CTRL+C to quit)
+2024-06-25 02:58:43,760  * Restarting with stat
+2024-06-25 02:58:46,200 Iniciando la lectura del archivo CSV...
+2024-06-25 02:58:47,807 Total de regiones a insertar: 16
+2024-06-25 02:58:47,808 Iniciando la inserción de regiones...
+2024-06-25 02:58:47,819 No hay nuevas regiones para insertar.
+2024-06-25 02:58:47,820 Total de comunas a insertar: 16
+2024-06-25 02:58:47,820 Iniciando la inserción de comunas...
+2024-06-25 02:58:47,821 No hay nuevas comunas para insertar.
+2024-06-25 02:58:47,822 Total de escuelas a insertar: 100500
+2024-06-25 02:58:47,822 Iniciando la inserción de escuelas...
+2024-06-25 02:58:48,267 No hay nuevas escuelas para insertar.
+2024-06-25 02:58:48,273 Total de conflictos a insertar: 100500
+2024-06-25 02:58:48,274 Iniciando la inserción de conflictos...
+2024-06-25 02:58:48,671 No hay nuevos conflictos para insertar.
+2024-06-25 02:58:48,676 Total de catástrofes a insertar: 100500
+2024-06-25 02:58:48,677 Iniciando la inserción de catástrofes...
+2024-06-25 02:58:49,088 No hay nuevas catástrofes para insertar.
+2024-06-25 02:58:49,093 Todos los datos han sido insertados correctamente.
+2024-06-25 02:58:49,249  * Debugger is active!
+2024-06-25 02:58:49,250  * Debugger PIN: 122-698-590
+2024-06-25 02:59:22,929 Iniciando la lectura del archivo CSV...
+2024-06-25 02:59:25,251 Total de regiones a insertar: 16
+2024-06-25 02:59:25,251 Iniciando la inserción de regiones...
+2024-06-25 02:59:25,267 Regiones insertadas correctamente.
+2024-06-25 02:59:25,267 Total de comunas a insertar: 16
+2024-06-25 02:59:25,268 Iniciando la inserción de comunas...
+2024-06-25 02:59:25,273 Comunas insertadas correctamente.
+2024-06-25 02:59:25,273 Total de escuelas a insertar: 100500
+2024-06-25 02:59:25,274 Iniciando la inserción de escuelas...
+2024-06-25 02:59:34,588 Escuelas insertadas correctamente.
+2024-06-25 02:59:34,733 Total de conflictos a insertar: 100500
+2024-06-25 02:59:34,733 Iniciando la inserción de conflictos...
+2024-06-25 02:59:39,458 Conflictos insertados correctamente.
+2024-06-25 02:59:39,547 Total de catástrofes a insertar: 100500
+2024-06-25 02:59:39,547 Iniciando la inserción de catástrofes...
+2024-06-25 02:59:44,507 Catástrofes insertadas correctamente.
+2024-06-25 02:59:44,600 Todos los datos han sido insertados correctamente.
+2024-06-25 02:59:44,782  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000 (Press CTRL+C to quit)
+2024-06-25 02:59:44,783  * Restarting with stat
+2024-06-25 02:59:47,251 Iniciando la lectura del archivo CSV...
+2024-06-25 02:59:48,904 Total de regiones a insertar: 16
+2024-06-25 02:59:48,904 Iniciando la inserción de regiones...
+2024-06-25 02:59:48,917 No hay nuevas regiones para insertar.
+2024-06-25 02:59:48,917 Total de comunas a insertar: 16
+2024-06-25 02:59:48,917 Iniciando la inserción de comunas...
+2024-06-25 02:59:48,919 No hay nuevas comunas para insertar.
+2024-06-25 02:59:48,919 Total de escuelas a insertar: 100500
+2024-06-25 02:59:48,919 Iniciando la inserción de escuelas...
+2024-06-25 02:59:49,337 No hay nuevas escuelas para insertar.
+2024-06-25 02:59:49,341 Total de conflictos a insertar: 100500
+2024-06-25 02:59:49,341 Iniciando la inserción de conflictos...
+2024-06-25 02:59:49,766 No hay nuevos conflictos para insertar.
+2024-06-25 02:59:49,772 Total de catástrofes a insertar: 100500
+2024-06-25 02:59:49,772 Iniciando la inserción de catástrofes...
+2024-06-25 02:59:50,235 No hay nuevas catástrofes para insertar.
+2024-06-25 02:59:50,240 Todos los datos han sido insertados correctamente.
+2024-06-25 02:59:50,363  * Debugger is active!
+2024-06-25 02:59:50,363  * Debugger PIN: 558-402-677
+2024-06-25 03:00:27,233 Iniciando la lectura del archivo CSV...
+2024-06-25 03:00:29,097 Total de regiones a insertar: 16
+2024-06-25 03:00:29,098 Iniciando la inserción de regiones...
+2024-06-25 03:00:29,120 Regiones insertadas correctamente.
+2024-06-25 03:00:29,121 Total de comunas a insertar: 16
+2024-06-25 03:00:29,121 Iniciando la inserción de comunas...
+2024-06-25 03:00:29,127 Comunas insertadas correctamente.
+2024-06-25 03:00:29,127 Total de escuelas a insertar: 100500
+2024-06-25 03:00:29,128 Iniciando la inserción de escuelas...
+2024-06-25 03:00:38,533 Escuelas insertadas correctamente.
+2024-06-25 03:00:38,667 Total de conflictos a insertar: 100500
+2024-06-25 03:00:38,668 Iniciando la inserción de conflictos...
+2024-06-25 03:00:43,453 Conflictos insertados correctamente.
+2024-06-25 03:00:43,553 Total de catástrofes a insertar: 100500
+2024-06-25 03:00:43,553 Iniciando la inserción de catástrofes...
+2024-06-25 03:00:50,295 Catástrofes insertadas correctamente.
+2024-06-25 03:00:50,382 Todos los datos han sido insertados correctamente.
+2024-06-25 03:00:50,567  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.16.3:5000 (Press CTRL+C to quit)
+2024-06-25 03:00:50,568  * Restarting with stat
+2024-06-25 03:00:53,062 Iniciando la lectura del archivo CSV...
+2024-06-25 03:00:54,735 Total de regiones a insertar: 16
+2024-06-25 03:00:54,735 Iniciando la inserción de regiones...
+2024-06-25 03:00:54,748 No hay nuevas regiones para insertar.
+2024-06-25 03:00:54,748 Total de comunas a insertar: 16
+2024-06-25 03:00:54,748 Iniciando la inserción de comunas...
+2024-06-25 03:00:54,750 No hay nuevas comunas para insertar.
+2024-06-25 03:00:54,750 Total de escuelas a insertar: 100500
+2024-06-25 03:00:54,750 Iniciando la inserción de escuelas...
+2024-06-25 03:00:55,178 No hay nuevas escuelas para insertar.
+2024-06-25 03:00:55,183 Total de conflictos a insertar: 100500
+2024-06-25 03:00:55,183 Iniciando la inserción de conflictos...
+2024-06-25 03:00:55,574 No hay nuevos conflictos para insertar.
+2024-06-25 03:00:55,579 Total de catástrofes a insertar: 100500
+2024-06-25 03:00:55,579 Iniciando la inserción de catástrofes...
+2024-06-25 03:00:55,988 No hay nuevas catástrofes para insertar.
+2024-06-25 03:00:55,993 Todos los datos han sido insertados correctamente.
+2024-06-25 03:00:56,117  * Debugger is active!
+2024-06-25 03:00:56,118  * Debugger PIN: 117-715-736
+2024-06-25 03:07:15,946  * Detected change in '/app/main.py', reloading
+2024-06-25 03:07:16,037  * Restarting with stat
+2024-06-25 03:07:18,527 Iniciando la lectura del archivo CSV...
+2024-06-25 03:07:20,126 Total de regiones a insertar: 16
+2024-06-25 03:07:20,126 Iniciando la inserción de regiones...
+2024-06-25 03:07:20,138 No hay nuevas regiones para insertar.
+2024-06-25 03:07:20,138 Total de comunas a insertar: 16
+2024-06-25 03:07:20,139 Iniciando la inserción de comunas...
+2024-06-25 03:07:20,140 No hay nuevas comunas para insertar.
+2024-06-25 03:07:20,140 Total de escuelas a insertar: 100500
+2024-06-25 03:07:20,140 Iniciando la inserción de escuelas...
+2024-06-25 03:07:20,553 No hay nuevas escuelas para insertar.
+2024-06-25 03:07:20,558 Total de conflictos a insertar: 100500
+2024-06-25 03:07:20,558 Iniciando la inserción de conflictos...
+2024-06-25 03:07:20,928 No hay nuevos conflictos para insertar.
+2024-06-25 03:07:20,932 Total de catástrofes a insertar: 100500
+2024-06-25 03:07:20,933 Iniciando la inserción de catástrofes...
+2024-06-25 03:07:21,326 No hay nuevas catástrofes para insertar.
+2024-06-25 03:07:21,331 Todos los datos han sido insertados correctamente.
+2024-06-25 03:07:21,451  * Debugger is active!
+2024-06-25 03:07:21,452  * Debugger PIN: 117-715-736
+2024-06-25 03:08:21,321 Iniciando la lectura del archivo CSV...
+2024-06-25 03:08:23,542 Total de regiones a insertar: 16
+2024-06-25 03:08:23,543 Iniciando la inserción de regiones...
+2024-06-25 03:08:23,559 Regiones insertadas correctamente.
+2024-06-25 03:08:23,559 Total de comunas a insertar: 16
+2024-06-25 03:08:23,559 Iniciando la inserción de comunas...
+2024-06-25 03:08:23,565 Comunas insertadas correctamente.
+2024-06-25 03:08:23,565 Total de escuelas a insertar: 100500
+2024-06-25 03:08:23,565 Iniciando la inserción de escuelas...
+2024-06-25 03:08:32,746 Escuelas insertadas correctamente.
+2024-06-25 03:08:32,891 Total de conflictos a insertar: 100500
+2024-06-25 03:08:32,891 Iniciando la inserción de conflictos...
+2024-06-25 03:08:37,708 Conflictos insertados correctamente.
+2024-06-25 03:08:37,800 Total de catástrofes a insertar: 100500
+2024-06-25 03:08:37,800 Iniciando la inserción de catástrofes...
+2024-06-25 03:08:42,672 Catástrofes insertadas correctamente.
+2024-06-25 03:08:42,759 Todos los datos han sido insertados correctamente.
+2024-06-25 03:08:42,944  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.32.3:5000 (Press CTRL+C to quit)
+2024-06-25 03:08:42,945  * Restarting with stat
+2024-06-25 03:08:45,417 Iniciando la lectura del archivo CSV...
+2024-06-25 03:08:47,094 Total de regiones a insertar: 16
+2024-06-25 03:08:47,094 Iniciando la inserción de regiones...
+2024-06-25 03:08:47,107 No hay nuevas regiones para insertar.
+2024-06-25 03:08:47,108 Total de comunas a insertar: 16
+2024-06-25 03:08:47,108 Iniciando la inserción de comunas...
+2024-06-25 03:08:47,109 No hay nuevas comunas para insertar.
+2024-06-25 03:08:47,109 Total de escuelas a insertar: 100500
+2024-06-25 03:08:47,109 Iniciando la inserción de escuelas...
+2024-06-25 03:08:47,541 No hay nuevas escuelas para insertar.
+2024-06-25 03:08:47,546 Total de conflictos a insertar: 100500
+2024-06-25 03:08:47,546 Iniciando la inserción de conflictos...
+2024-06-25 03:08:47,927 No hay nuevos conflictos para insertar.
+2024-06-25 03:08:47,932 Total de catástrofes a insertar: 100500
+2024-06-25 03:08:47,932 Iniciando la inserción de catástrofes...
+2024-06-25 03:08:48,350 No hay nuevas catástrofes para insertar.
+2024-06-25 03:08:48,355 Todos los datos han sido insertados correctamente.
+2024-06-25 03:08:48,491  * Debugger is active!
+2024-06-25 03:08:48,492  * Debugger PIN: 562-543-643
+2024-06-25 03:31:16,000 Iniciando la lectura del archivo CSV...
+2024-06-25 03:31:17,973 Total de regiones a insertar: 16
+2024-06-25 03:31:17,973 Iniciando la inserción de regiones...
+2024-06-25 03:31:17,993 Regiones insertadas correctamente.
+2024-06-25 03:31:17,993 Total de comunas a insertar: 16
+2024-06-25 03:31:17,993 Iniciando la inserción de comunas...
+2024-06-25 03:31:17,999 Comunas insertadas correctamente.
+2024-06-25 03:31:17,999 Total de escuelas a insertar: 100500
+2024-06-25 03:31:18,000 Iniciando la inserción de escuelas...
+2024-06-25 03:31:27,242 Escuelas insertadas correctamente.
+2024-06-25 03:31:27,404 Total de conflictos a insertar: 100500
+2024-06-25 03:31:27,405 Iniciando la inserción de conflictos...
+2024-06-25 03:31:32,315 Conflictos insertados correctamente.
+2024-06-25 03:31:32,412 Total de catástrofes a insertar: 100500
+2024-06-25 03:31:32,413 Iniciando la inserción de catástrofes...
+2024-06-25 03:31:37,374 Catástrofes insertadas correctamente.
+2024-06-25 03:31:37,473 Todos los datos han sido insertados correctamente.
+2024-06-25 03:31:37,666  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.48.3:5000 (Press CTRL+C to quit)
+2024-06-25 03:31:37,667  * Restarting with stat
+2024-06-25 03:31:40,136 Iniciando la lectura del archivo CSV...
+2024-06-25 03:31:41,753 Total de regiones a insertar: 16
+2024-06-25 03:31:41,754 Iniciando la inserción de regiones...
+2024-06-25 03:31:41,767 No hay nuevas regiones para insertar.
+2024-06-25 03:31:41,767 Total de comunas a insertar: 16
+2024-06-25 03:31:41,767 Iniciando la inserción de comunas...
+2024-06-25 03:31:41,769 No hay nuevas comunas para insertar.
+2024-06-25 03:31:41,769 Total de escuelas a insertar: 100500
+2024-06-25 03:31:41,769 Iniciando la inserción de escuelas...
+2024-06-25 03:31:42,220 No hay nuevas escuelas para insertar.
+2024-06-25 03:31:42,226 Total de conflictos a insertar: 100500
+2024-06-25 03:31:42,227 Iniciando la inserción de conflictos...
+2024-06-25 03:31:42,631 No hay nuevos conflictos para insertar.
+2024-06-25 03:31:42,638 Total de catástrofes a insertar: 100500
+2024-06-25 03:31:42,639 Iniciando la inserción de catástrofes...
+2024-06-25 03:31:43,082 No hay nuevas catástrofes para insertar.
+2024-06-25 03:31:43,087 Todos los datos han sido insertados correctamente.
+2024-06-25 03:31:43,218  * Debugger is active!
+2024-06-25 03:31:43,219  * Debugger PIN: 525-373-004
+2024-06-25 03:40:15,681 Iniciando la lectura del archivo CSV...
+2024-06-25 03:40:18,079 Total de regiones a insertar: 16
+2024-06-25 03:40:18,079 Iniciando la inserción de regiones...
+2024-06-25 03:40:18,096 Regiones insertadas correctamente.
+2024-06-25 03:40:18,097 Total de comunas a insertar: 16
+2024-06-25 03:40:18,097 Iniciando la inserción de comunas...
+2024-06-25 03:40:18,103 Comunas insertadas correctamente.
+2024-06-25 03:40:18,106 Total de escuelas a insertar: 100500
+2024-06-25 03:40:18,107 Iniciando la inserción de escuelas...
+2024-06-25 03:40:27,601 Escuelas insertadas correctamente.
+2024-06-25 03:40:27,761 Total de conflictos a insertar: 100500
+2024-06-25 03:40:27,761 Iniciando la inserción de conflictos...
+2024-06-25 03:40:32,683 Conflictos insertados correctamente.
+2024-06-25 03:40:32,787 Total de catástrofes a insertar: 100500
+2024-06-25 03:40:32,788 Iniciando la inserción de catástrofes...
+2024-06-25 03:40:37,878 Catástrofes insertadas correctamente.
+2024-06-25 03:40:37,971 Todos los datos han sido insertados correctamente.
+2024-06-25 03:40:38,162  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.80.3:5000 (Press CTRL+C to quit)
+2024-06-25 03:40:38,163  * Restarting with stat
+2024-06-25 03:40:40,658 Iniciando la lectura del archivo CSV...
+2024-06-25 03:40:42,343 Total de regiones a insertar: 16
+2024-06-25 03:40:42,344 Iniciando la inserción de regiones...
+2024-06-25 03:40:42,357 No hay nuevas regiones para insertar.
+2024-06-25 03:40:42,358 Total de comunas a insertar: 16
+2024-06-25 03:40:42,358 Iniciando la inserción de comunas...
+2024-06-25 03:40:42,359 No hay nuevas comunas para insertar.
+2024-06-25 03:40:42,360 Total de escuelas a insertar: 100500
+2024-06-25 03:40:42,360 Iniciando la inserción de escuelas...
+2024-06-25 03:40:42,810 No hay nuevas escuelas para insertar.
+2024-06-25 03:40:42,815 Total de conflictos a insertar: 100500
+2024-06-25 03:40:42,815 Iniciando la inserción de conflictos...
+2024-06-25 03:40:43,206 No hay nuevos conflictos para insertar.
+2024-06-25 03:40:43,212 Total de catástrofes a insertar: 100500
+2024-06-25 03:40:43,212 Iniciando la inserción de catástrofes...
+2024-06-25 03:40:43,657 No hay nuevas catástrofes para insertar.
+2024-06-25 03:40:43,663 Todos los datos han sido insertados correctamente.
+2024-06-25 03:40:43,794  * Debugger is active!
+2024-06-25 03:40:43,795  * Debugger PIN: 401-558-347
+2024-06-25 03:42:21,520 192.168.80.1 - - [25/Jun/2024 03:42:21] "[33mGET /api/schools/filter?comuna=Arica HTTP/1.1[0m" 404 -
+2024-06-25 03:42:21,836 192.168.80.1 - - [25/Jun/2024 03:42:21] "[33mGET /api/schools/filter?comuna=Arica HTTP/1.1[0m" 404 -
+2024-06-25 03:42:21,986 192.168.80.1 - - [25/Jun/2024 03:42:21] "[33mGET /api/schools/filter?comuna=Arica HTTP/1.1[0m" 404 -
+2024-06-25 03:42:22,126 192.168.80.1 - - [25/Jun/2024 03:42:22] "[33mGET /api/schools/filter?comuna=Arica HTTP/1.1[0m" 404 -
+2024-06-25 03:49:07,880  * Detected change in '/app/main.py', reloading
+2024-06-25 03:49:07,984  * Restarting with stat
+2024-06-25 03:49:10,556 Iniciando la lectura del archivo CSV...
+2024-06-25 03:49:12,287 Total de regiones a insertar: 16
+2024-06-25 03:49:12,287 Iniciando la inserción de regiones...
+2024-06-25 03:49:12,300 No hay nuevas regiones para insertar.
+2024-06-25 03:49:12,301 Total de comunas a insertar: 16
+2024-06-25 03:49:12,301 Iniciando la inserción de comunas...
+2024-06-25 03:49:12,303 No hay nuevas comunas para insertar.
+2024-06-25 03:49:12,303 Total de escuelas a insertar: 100500
+2024-06-25 03:49:12,303 Iniciando la inserción de escuelas...
+2024-06-25 03:49:12,782 No hay nuevas escuelas para insertar.
+2024-06-25 03:49:12,788 Total de conflictos a insertar: 100500
+2024-06-25 03:49:12,788 Iniciando la inserción de conflictos...
+2024-06-25 03:49:13,219 No hay nuevos conflictos para insertar.
+2024-06-25 03:49:13,225 Total de catástrofes a insertar: 100500
+2024-06-25 03:49:13,225 Iniciando la inserción de catástrofes...
+2024-06-25 03:49:13,697 No hay nuevas catástrofes para insertar.
+2024-06-25 03:49:13,703 Todos los datos han sido insertados correctamente.
+2024-06-25 03:49:13,840  * Debugger is active!
+2024-06-25 03:49:13,841  * Debugger PIN: 401-558-347
+2024-06-25 03:51:56,880  * Detected change in '/app/main.py', reloading
+2024-06-25 03:51:56,982  * Restarting with stat
+2024-06-25 03:51:59,518 Iniciando la lectura del archivo CSV...
+2024-06-25 03:52:01,276 Total de regiones a insertar: 16
+2024-06-25 03:52:01,276 Iniciando la inserción de regiones...
+2024-06-25 03:52:01,298 No hay nuevas regiones para insertar.
+2024-06-25 03:52:01,304 Total de comunas a insertar: 16
+2024-06-25 03:52:01,305 Iniciando la inserción de comunas...
+2024-06-25 03:52:01,318 No hay nuevas comunas para insertar.
+2024-06-25 03:52:01,326 Total de escuelas a insertar: 100500
+2024-06-25 03:52:01,336 Iniciando la inserción de escuelas...
+2024-06-25 03:52:01,898 No hay nuevas escuelas para insertar.
+2024-06-25 03:52:01,902 Total de conflictos a insertar: 100500
+2024-06-25 03:52:01,903 Iniciando la inserción de conflictos...
+2024-06-25 03:52:02,351 No hay nuevos conflictos para insertar.
+2024-06-25 03:52:02,357 Total de catástrofes a insertar: 100500
+2024-06-25 03:52:02,357 Iniciando la inserción de catástrofes...
+2024-06-25 03:52:02,809 No hay nuevas catástrofes para insertar.
+2024-06-25 03:52:02,815 Todos los datos han sido insertados correctamente.
+2024-06-25 03:52:02,950  * Debugger is active!
+2024-06-25 03:52:02,951  * Debugger PIN: 401-558-347
+2024-06-25 03:52:19,114 192.168.80.1 - - [25/Jun/2024 03:52:19] "[33mGET /api/schools/filter?comuna=Arica HTTP/1.1[0m" 404 -
+2024-06-25 03:52:19,694 192.168.80.1 - - [25/Jun/2024 03:52:19] "[33mGET /api/schools/filter?comuna=Arica HTTP/1.1[0m" 404 -
+2024-06-25 03:58:21,132  * Detected change in '/app/main.py', reloading
+2024-06-25 03:58:21,250  * Restarting with stat
+2024-06-25 03:58:23,809 Iniciando la lectura del archivo CSV...
+2024-06-25 03:58:25,606 Total de regiones a insertar: 16
+2024-06-25 03:58:25,606 Iniciando la inserción de regiones...
+2024-06-25 03:58:25,619 No hay nuevas regiones para insertar.
+2024-06-25 03:58:25,619 Total de comunas a insertar: 16
+2024-06-25 03:58:25,620 Iniciando la inserción de comunas...
+2024-06-25 03:58:25,622 No hay nuevas comunas para insertar.
+2024-06-25 03:58:25,623 Total de escuelas a insertar: 100500
+2024-06-25 03:58:25,623 Iniciando la inserción de escuelas...
+2024-06-25 03:58:26,111 No hay nuevas escuelas para insertar.
+2024-06-25 03:58:26,117 Total de conflictos a insertar: 100500
+2024-06-25 03:58:26,117 Iniciando la inserción de conflictos...
+2024-06-25 03:58:26,591 No hay nuevos conflictos para insertar.
+2024-06-25 03:58:26,597 Total de catástrofes a insertar: 100500
+2024-06-25 03:58:26,597 Iniciando la inserción de catástrofes...
+2024-06-25 03:58:27,085 No hay nuevas catástrofes para insertar.
+2024-06-25 03:58:27,091 Todos los datos han sido insertados correctamente.
+2024-06-25 03:58:27,226  * Debugger is active!
+2024-06-25 03:58:27,226  * Debugger PIN: 401-558-347
+2024-06-25 03:59:33,226 Iniciando la lectura del archivo CSV...
+2024-06-25 03:59:35,171 Total de regiones a insertar: 16
+2024-06-25 03:59:35,171 Iniciando la inserción de regiones...
+2024-06-25 03:59:35,189 Regiones insertadas correctamente.
+2024-06-25 03:59:35,190 Total de comunas a insertar: 16
+2024-06-25 03:59:35,190 Iniciando la inserción de comunas...
+2024-06-25 03:59:35,195 Comunas insertadas correctamente.
+2024-06-25 03:59:35,195 Total de escuelas a insertar: 100500
+2024-06-25 03:59:35,195 Iniciando la inserción de escuelas...
+2024-06-25 03:59:44,442 Escuelas insertadas correctamente.
+2024-06-25 03:59:44,593 Total de conflictos a insertar: 100500
+2024-06-25 03:59:44,593 Iniciando la inserción de conflictos...
+2024-06-25 03:59:49,400 Conflictos insertados correctamente.
+2024-06-25 03:59:49,496 Total de catástrofes a insertar: 100500
+2024-06-25 03:59:49,496 Iniciando la inserción de catástrofes...
+2024-06-25 03:59:54,465 Catástrofes insertadas correctamente.
+2024-06-25 03:59:54,556 Todos los datos han sido insertados correctamente.
+2024-06-25 03:59:54,744  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.96.3:5000 (Press CTRL+C to quit)
+2024-06-25 03:59:54,745  * Restarting with stat
+2024-06-25 03:59:57,231 Iniciando la lectura del archivo CSV...
+2024-06-25 03:59:58,896 Total de regiones a insertar: 16
+2024-06-25 03:59:58,896 Iniciando la inserción de regiones...
+2024-06-25 03:59:58,910 No hay nuevas regiones para insertar.
+2024-06-25 03:59:58,910 Total de comunas a insertar: 16
+2024-06-25 03:59:58,910 Iniciando la inserción de comunas...
+2024-06-25 03:59:58,912 No hay nuevas comunas para insertar.
+2024-06-25 03:59:58,912 Total de escuelas a insertar: 100500
+2024-06-25 03:59:58,912 Iniciando la inserción de escuelas...
+2024-06-25 03:59:59,361 No hay nuevas escuelas para insertar.
+2024-06-25 03:59:59,367 Total de conflictos a insertar: 100500
+2024-06-25 03:59:59,367 Iniciando la inserción de conflictos...
+2024-06-25 03:59:59,758 No hay nuevos conflictos para insertar.
+2024-06-25 03:59:59,763 Total de catástrofes a insertar: 100500
+2024-06-25 03:59:59,763 Iniciando la inserción de catástrofes...
+2024-06-25 04:00:00,201 No hay nuevas catástrofes para insertar.
+2024-06-25 04:00:00,207 Todos los datos han sido insertados correctamente.
+2024-06-25 04:00:00,335  * Debugger is active!
+2024-06-25 04:00:00,336  * Debugger PIN: 726-932-333
+2024-06-25 04:01:20,329 192.168.96.1 - - [25/Jun/2024 04:01:20] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:07:32,363  * Detected change in '/app/main.py', reloading
+2024-06-25 04:07:32,504  * Restarting with stat
+2024-06-25 04:07:34,954 Iniciando la lectura del archivo CSV...
+2024-06-25 04:07:36,574 Total de regiones a insertar: 16
+2024-06-25 04:07:36,574 Iniciando la inserción de regiones...
+2024-06-25 04:07:36,587 No hay nuevas regiones para insertar.
+2024-06-25 04:07:36,587 Total de comunas a insertar: 16
+2024-06-25 04:07:36,587 Iniciando la inserción de comunas...
+2024-06-25 04:07:36,588 No hay nuevas comunas para insertar.
+2024-06-25 04:07:36,588 Total de escuelas a insertar: 100500
+2024-06-25 04:07:36,589 Iniciando la inserción de escuelas...
+2024-06-25 04:07:37,051 No hay nuevas escuelas para insertar.
+2024-06-25 04:07:37,055 Total de conflictos a insertar: 100500
+2024-06-25 04:07:37,055 Iniciando la inserción de conflictos...
+2024-06-25 04:07:37,432 No hay nuevos conflictos para insertar.
+2024-06-25 04:07:37,438 Total de catástrofes a insertar: 100500
+2024-06-25 04:07:37,438 Iniciando la inserción de catástrofes...
+2024-06-25 04:07:37,851 No hay nuevas catástrofes para insertar.
+2024-06-25 04:07:37,856 Todos los datos han sido insertados correctamente.
+2024-06-25 04:07:37,979  * Debugger is active!
+2024-06-25 04:07:37,980  * Debugger PIN: 726-932-333
+2024-06-25 04:10:19,861 192.168.96.1 - - [25/Jun/2024 04:10:19] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:10:20,250 192.168.96.1 - - [25/Jun/2024 04:10:20] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:10,191 Iniciando la lectura del archivo CSV...
+2024-06-25 04:46:12,529 Total de regiones a insertar: 16
+2024-06-25 04:46:12,529 Iniciando la inserción de regiones...
+2024-06-25 04:46:12,549 Regiones insertadas correctamente.
+2024-06-25 04:46:12,550 Total de comunas a insertar: 16
+2024-06-25 04:46:12,550 Iniciando la inserción de comunas...
+2024-06-25 04:46:12,556 Comunas insertadas correctamente.
+2024-06-25 04:46:12,556 Total de escuelas a insertar: 100500
+2024-06-25 04:46:12,556 Iniciando la inserción de escuelas...
+2024-06-25 04:46:21,542 Escuelas insertadas correctamente.
+2024-06-25 04:46:21,666 Total de conflictos a insertar: 100500
+2024-06-25 04:46:21,667 Iniciando la inserción de conflictos...
+2024-06-25 04:46:26,125 Conflictos insertados correctamente.
+2024-06-25 04:46:26,215 Total de catástrofes a insertar: 100500
+2024-06-25 04:46:26,215 Iniciando la inserción de catástrofes...
+2024-06-25 04:46:30,854 Catástrofes insertadas correctamente.
+2024-06-25 04:46:30,943 Todos los datos han sido insertados correctamente.
+2024-06-25 04:46:31,127  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000 (Press CTRL+C to quit)
+2024-06-25 04:46:31,128  * Restarting with stat
+2024-06-25 04:46:33,543 Iniciando la lectura del archivo CSV...
+2024-06-25 04:46:35,116 Total de regiones a insertar: 16
+2024-06-25 04:46:35,116 Iniciando la inserción de regiones...
+2024-06-25 04:46:35,128 No hay nuevas regiones para insertar.
+2024-06-25 04:46:35,129 Total de comunas a insertar: 16
+2024-06-25 04:46:35,129 Iniciando la inserción de comunas...
+2024-06-25 04:46:35,130 No hay nuevas comunas para insertar.
+2024-06-25 04:46:35,130 Total de escuelas a insertar: 100500
+2024-06-25 04:46:35,130 Iniciando la inserción de escuelas...
+2024-06-25 04:46:35,524 No hay nuevas escuelas para insertar.
+2024-06-25 04:46:35,528 Total de conflictos a insertar: 100500
+2024-06-25 04:46:35,529 Iniciando la inserción de conflictos...
+2024-06-25 04:46:35,898 No hay nuevos conflictos para insertar.
+2024-06-25 04:46:35,902 Total de catástrofes a insertar: 100500
+2024-06-25 04:46:35,902 Iniciando la inserción de catástrofes...
+2024-06-25 04:46:36,239 No hay nuevas catástrofes para insertar.
+2024-06-25 04:46:36,244 Todos los datos han sido insertados correctamente.
+2024-06-25 04:46:36,405  * Debugger is active!
+2024-06-25 04:46:36,410  * Debugger PIN: 630-341-060
+2024-06-25 04:46:36,435 172.18.0.1 - - [25/Jun/2024 04:46:36] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:46:36,441 172.18.0.1 - - [25/Jun/2024 04:46:36] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:46:38,742 172.18.0.1 - - [25/Jun/2024 04:46:38] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:46:38,746 172.18.0.1 - - [25/Jun/2024 04:46:38] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:46:42,869 172.18.0.1 - - [25/Jun/2024 04:46:42] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:43,303 172.18.0.1 - - [25/Jun/2024 04:46:43] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:43,668 172.18.0.1 - - [25/Jun/2024 04:46:43] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:43,848 172.18.0.1 - - [25/Jun/2024 04:46:43] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:44,058 172.18.0.1 - - [25/Jun/2024 04:46:44] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:44,215 172.18.0.1 - - [25/Jun/2024 04:46:44] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:44,473 172.18.0.1 - - [25/Jun/2024 04:46:44] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:44,776 172.18.0.1 - - [25/Jun/2024 04:46:44] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:45,138 172.18.0.1 - - [25/Jun/2024 04:46:45] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:45,177 172.18.0.1 - - [25/Jun/2024 04:46:45] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:45,302 172.18.0.1 - - [25/Jun/2024 04:46:45] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:45,642 172.18.0.1 - - [25/Jun/2024 04:46:45] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:45,759 172.18.0.1 - - [25/Jun/2024 04:46:45] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:46,136 172.18.0.1 - - [25/Jun/2024 04:46:46] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:46:46,138 172.18.0.1 - - [25/Jun/2024 04:46:46] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:47:16,164 172.18.0.1 - - [25/Jun/2024 04:47:16] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:47:36,170 172.18.0.1 - - [25/Jun/2024 04:47:36] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:47:36,188 172.18.0.1 - - [25/Jun/2024 04:47:36] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:47:36,191 172.18.0.1 - - [25/Jun/2024 04:47:36] "[35m[1mGET /api/stats/schools/filter?comuna=Arica HTTP/1.1[0m" 500 -
+2024-06-25 04:51:51,916 Iniciando la lectura del archivo CSV...
+2024-06-25 04:51:53,765 Total de regiones a insertar: 16
+2024-06-25 04:51:53,765 Iniciando la inserción de regiones...
+2024-06-25 04:51:53,780 Regiones insertadas correctamente.
+2024-06-25 04:51:53,780 Total de comunas a insertar: 16
+2024-06-25 04:51:53,780 Iniciando la inserción de comunas...
+2024-06-25 04:51:53,785 Comunas insertadas correctamente.
+2024-06-25 04:51:53,786 Total de escuelas a insertar: 100500
+2024-06-25 04:51:53,786 Iniciando la inserción de escuelas...
+2024-06-25 04:52:04,046 Escuelas insertadas correctamente.
+2024-06-25 04:52:04,175 Total de conflictos a insertar: 100500
+2024-06-25 04:52:04,175 Iniciando la inserción de conflictos...
+2024-06-25 04:52:08,728 Conflictos insertados correctamente.
+2024-06-25 04:52:08,849 Total de catástrofes a insertar: 100500
+2024-06-25 04:52:08,850 Iniciando la inserción de catástrofes...
+2024-06-25 04:52:13,560 Catástrofes insertadas correctamente.
+2024-06-25 04:52:13,647 Todos los datos han sido insertados correctamente.
+2024-06-25 04:52:13,829  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.3:5000 (Press CTRL+C to quit)
+2024-06-25 04:52:13,830  * Restarting with stat
+2024-06-25 04:52:16,294 Iniciando la lectura del archivo CSV...
+2024-06-25 04:52:17,900 Total de regiones a insertar: 16
+2024-06-25 04:52:17,901 Iniciando la inserción de regiones...
+2024-06-25 04:52:17,912 No hay nuevas regiones para insertar.
+2024-06-25 04:52:17,913 Total de comunas a insertar: 16
+2024-06-25 04:52:17,913 Iniciando la inserción de comunas...
+2024-06-25 04:52:17,914 No hay nuevas comunas para insertar.
+2024-06-25 04:52:17,914 Total de escuelas a insertar: 100500
+2024-06-25 04:52:17,914 Iniciando la inserción de escuelas...
+2024-06-25 04:52:18,322 No hay nuevas escuelas para insertar.
+2024-06-25 04:52:18,327 Total de conflictos a insertar: 100500
+2024-06-25 04:52:18,328 Iniciando la inserción de conflictos...
+2024-06-25 04:52:18,687 No hay nuevos conflictos para insertar.
+2024-06-25 04:52:18,692 Total de catástrofes a insertar: 100500
+2024-06-25 04:52:18,692 Iniciando la inserción de catástrofes...
+2024-06-25 04:52:19,147 No hay nuevas catástrofes para insertar.
+2024-06-25 04:52:19,151 Todos los datos han sido insertados correctamente.
+2024-06-25 04:52:19,283  * Debugger is active!
+2024-06-25 04:52:19,283  * Debugger PIN: 131-823-340
+2024-06-25 04:57:02,984 172.19.0.1 - - [25/Jun/2024 04:57:02] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:57:02,994 172.19.0.1 - - [25/Jun/2024 04:57:02] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:57:10,864 172.19.0.1 - - [25/Jun/2024 04:57:10] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:57:10,870 172.19.0.1 - - [25/Jun/2024 04:57:10] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 04:57:12,956 172.19.0.1 - - [25/Jun/2024 04:57:12] "[35m[1mGET /api/stats/schools/filter?comuna=Santiago HTTP/1.1[0m" 500 -
+2024-06-25 05:09:40,076  * Detected change in '/app/main.py', reloading
+2024-06-25 05:09:40,190  * Restarting with stat
+2024-06-25 05:09:42,650 Iniciando la lectura del archivo CSV...
+2024-06-25 05:09:44,241 Total de regiones a insertar: 16
+2024-06-25 05:09:44,241 Iniciando la inserción de regiones...
+2024-06-25 05:09:44,253 No hay nuevas regiones para insertar.
+2024-06-25 05:09:44,254 Total de comunas a insertar: 16
+2024-06-25 05:09:44,254 Iniciando la inserción de comunas...
+2024-06-25 05:09:44,255 No hay nuevas comunas para insertar.
+2024-06-25 05:09:44,255 Total de escuelas a insertar: 100500
+2024-06-25 05:09:44,255 Iniciando la inserción de escuelas...
+2024-06-25 05:09:44,640 No hay nuevas escuelas para insertar.
+2024-06-25 05:09:44,644 Total de conflictos a insertar: 100500
+2024-06-25 05:09:44,645 Iniciando la inserción de conflictos...
+2024-06-25 05:09:44,981 No hay nuevos conflictos para insertar.
+2024-06-25 05:09:44,986 Total de catástrofes a insertar: 100500
+2024-06-25 05:09:44,987 Iniciando la inserción de catástrofes...
+2024-06-25 05:09:45,386 No hay nuevas catástrofes para insertar.
+2024-06-25 05:09:45,391 Todos los datos han sido insertados correctamente.
+2024-06-25 05:09:45,518  * Debugger is active!
+2024-06-25 05:09:45,518  * Debugger PIN: 131-823-340
+2024-06-25 05:10:36,707  * Detected change in '/app/main.py', reloading
+2024-06-25 05:10:36,784  * Restarting with stat
+2024-06-25 05:14:05,414 Iniciando la lectura del archivo CSV...
+2024-06-25 05:14:07,034 Total de regiones a insertar: 16
+2024-06-25 05:14:07,034 Iniciando la inserción de regiones...
+2024-06-25 05:14:07,050 Regiones insertadas correctamente.
+2024-06-25 05:14:07,050 Total de comunas a insertar: 16
+2024-06-25 05:14:07,051 Iniciando la inserción de comunas...
+2024-06-25 05:14:07,056 Comunas insertadas correctamente.
+2024-06-25 05:14:07,056 Total de escuelas a insertar: 100500
+2024-06-25 05:14:07,057 Iniciando la inserción de escuelas...
+2024-06-25 05:14:17,587 Escuelas insertadas correctamente.
+2024-06-25 05:14:17,718 Total de conflictos a insertar: 100500
+2024-06-25 05:14:17,718 Iniciando la inserción de conflictos...
+2024-06-25 05:14:23,080 Conflictos insertados correctamente.
+2024-06-25 05:14:23,165 Total de catástrofes a insertar: 100500
+2024-06-25 05:14:23,166 Iniciando la inserción de catástrofes...
+2024-06-25 05:14:27,833 Catástrofes insertadas correctamente.
+2024-06-25 05:14:27,921 Todos los datos han sido insertados correctamente.
+2024-06-25 05:14:28,098  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.3:5000 (Press CTRL+C to quit)
+2024-06-25 05:14:28,099  * Restarting with stat
+2024-06-25 05:14:30,571 Iniciando la lectura del archivo CSV...
+2024-06-25 05:14:32,206 Total de regiones a insertar: 16
+2024-06-25 05:14:32,206 Iniciando la inserción de regiones...
+2024-06-25 05:14:32,218 No hay nuevas regiones para insertar.
+2024-06-25 05:14:32,219 Total de comunas a insertar: 16
+2024-06-25 05:14:32,219 Iniciando la inserción de comunas...
+2024-06-25 05:14:32,220 No hay nuevas comunas para insertar.
+2024-06-25 05:14:32,220 Total de escuelas a insertar: 100500
+2024-06-25 05:14:32,220 Iniciando la inserción de escuelas...
+2024-06-25 05:14:32,618 No hay nuevas escuelas para insertar.
+2024-06-25 05:14:32,623 Total de conflictos a insertar: 100500
+2024-06-25 05:14:32,623 Iniciando la inserción de conflictos...
+2024-06-25 05:14:32,999 No hay nuevos conflictos para insertar.
+2024-06-25 05:14:33,004 Total de catástrofes a insertar: 100500
+2024-06-25 05:14:33,005 Iniciando la inserción de catástrofes...
+2024-06-25 05:14:33,380 No hay nuevas catástrofes para insertar.
+2024-06-25 05:14:33,385 Todos los datos han sido insertados correctamente.
+2024-06-25 05:14:33,507  * Debugger is active!
+2024-06-25 05:14:33,508  * Debugger PIN: 632-042-669
+2024-06-25 05:14:34,992 172.20.0.1 - - [25/Jun/2024 05:14:34] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 05:14:34,998 172.20.0.1 - - [25/Jun/2024 05:14:34] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 05:14:37,552 172.20.0.1 - - [25/Jun/2024 05:14:37] "GET /api/stats/schools/filter?comuna=Iquique HTTP/1.1" 200 -
+2024-06-25 05:14:57,667 172.20.0.1 - - [25/Jun/2024 05:14:57] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 05:14:57,672 172.20.0.1 - - [25/Jun/2024 05:14:57] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 05:15:14,568 172.20.0.1 - - [25/Jun/2024 05:15:14] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 05:15:14,574 172.20.0.1 - - [25/Jun/2024 05:15:14] "GET /api/stats/all_comunas HTTP/1.1" 200 -
+2024-06-25 05:15:31,404 172.20.0.1 - - [25/Jun/2024 05:15:31] "GET /api/stats/schools/filter?comuna=Puerto+Montt HTTP/1.1" 200 -
